@@ -1,13 +1,7 @@
-import React from "react";
-
-export default function Inicio () {
+export default function Primeiro () {
     return (
         <div>
-            <h1>Masterclass Next</h1>
-
-            <nav>
-                <link href="/first">Primeiro Componente</link>
-            </nav>
+            <h1>Primeiro</h1>
         </div>
     )
 }
